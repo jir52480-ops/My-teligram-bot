@@ -6,7 +6,7 @@
 // ============================================================
 // CONFIG
 // ============================================================
-define('BOT_TOKEN', '9193856004:AAEXleoa7HmlpzSmIpvmAqazWl0Im2tkBdQ');
+define('BOT_TOKEN', '9049104444:AAHYzhMIBgjLMK_JBzb-fTsLGrkfTToSg_4');
 define('API_BASE', 'https://api.telegram.org/bot' . BOT_TOKEN . '/');
 define('WELCOME_IMAGE_URL', '');
 define('ADMIN_ID', 8287613405);
